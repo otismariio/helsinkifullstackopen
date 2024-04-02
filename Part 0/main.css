@@ -1,0 +1,84 @@
+html {
+    font-size: 10px;
+    font-family: "open Sans", sans-serif;
+    background-color: #B2E3F0;
+  }
+  
+  body {
+    width: auto;
+    margin: 0 auto;
+    background-color: #ff9500;
+    padding: 20px 20px 20px 20px;
+    border: 3px solid green;  
+  }
+  
+  h1 {
+    margin: 0;
+    padding:20px 0;
+    color: #35439F;
+    text-shadow: 2PX 3PX 2PX yellow;
+    font-size: 22px;
+    text-align: center; 
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
+  form {
+    text-align: center;
+    display: inline-block;
+    padding: 1em;
+    border: 2px solid #6c4;
+    border-radius: 1em;
+  }
+  
+  form ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  form li + li {
+    margin-top: 1em;
+  }
+  
+  label {
+    display: inline-block;
+    min-width: 90px;
+    text-align: right;
+  }
+  
+  input,
+  textarea {
+    font:  1em open sans;
+    width: 300px;
+    box-sizing: border-box;
+    border: 2px solid red;
+  }
+  
+  textarea:focus {
+    background-color: #e41;
+    color: #fff;
+  }
+  
+  textarea {
+    vertical-align: top;
+    height: 5em;
+  }
+  
+  .button {
+    padding-left: 90px;  
+  }
+  
+  button {
+    margin-right: 1.5em;
+  }

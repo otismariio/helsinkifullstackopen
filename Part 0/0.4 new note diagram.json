@@ -1,0 +1,133 @@
+[
+    {
+        "state": {
+            "code": "sequenceDiagram\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/notes\n    Server-->>-Browser: HTML document\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/main.css\n    Server-->>-Browser: Notes CSS file\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/main.js\n    Server-->>-Browser: Notes Javascript file\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/data.json\n    Server-->>-Browser: [{\"content\": \"Hello there\",\"date\":\"2024-04-01\"}, ...]\n    Browser->>+Server: POST https://studies.cs.helsinki.fi/exampleapp/data.json\n    Server-->>-Browser: [{\"content\": \"Hello there\",\"date\":\"2024-04-01\"}, ...]",
+            "mermaid": "{\n  \"theme\": \"default\"\n}",
+            "autoSync": true,
+            "updateDiagram": false,
+            "panZoom": false
+        },
+        "time": 1712057626299,
+        "type": "auto",
+        "id": "c8ad51d3-38c5-42ff-886c-64ceef889c50",
+        "name": "plain-alligator"
+    },
+    {
+        "state": {
+            "code": "sequenceDiagram\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/notes\n    Server-->>-Browser: HTML document\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/main.css\n    Server-->>-Browser: Notes CSS file\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/main.js\n    Server-->>-Browser: Notes Javascript file\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/data.json\n    Server-->>-Browser: [{\"content\": \"Hello there\",\"date\":\"2024-04-01\"}, ...]",
+            "mermaid": "{\n  \"theme\": \"default\"\n}",
+            "autoSync": true,
+            "updateDiagram": false,
+            "panZoom": false
+        },
+        "time": 1712057506309,
+        "type": "auto",
+        "id": "6b9937fe-3c26-4527-b756-34b7509f9bcd",
+        "name": "scary-alligator"
+    },
+    {
+        "state": {
+            "code": "sequenceDiagram\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/notes\n    Server-->>-Browser: HTML document\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/main.css\n    Server-->>-Browser: Notes CSS file\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/main.js\n    Server-->>-Browser: Notes Javascript file\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/data.json\n    Server-->>-Browser: [{\"content\": \"Hello there\",\"date\":\"2024-04-01\" }]",
+            "mermaid": "{\n  \"theme\": \"default\"\n}",
+            "autoSync": true,
+            "updateDiagram": false,
+            "panZoom": false
+        },
+        "time": 1712037227052,
+        "type": "auto",
+        "id": "23ddde92-b028-4204-ad2d-93e0e5a519b0",
+        "name": "juicy-rose"
+    },
+    {
+        "state": {
+            "code": "sequenceDiagram\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/notes\n    Server-->>-Browser: HTML document\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/main.css\n    Server-->>-Browser: Notes CSS file\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/main.js\n    Server-->>-Browser: Notes Javascript file\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/data.json\n    Server-->>-Browser: [{\"content\": \"Hello there\",\"date: \" }]",
+            "mermaid": "{\n  \"theme\": \"default\"\n}",
+            "autoSync": true,
+            "updateDiagram": false,
+            "panZoom": false
+        },
+        "time": 1712037166301,
+        "type": "auto",
+        "id": "dcbe9029-b3de-4c18-b406-940b264e9665",
+        "name": "quick-brother"
+    },
+    {
+        "state": {
+            "code": "sequenceDiagram\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/notes\n    Server-->>-Browser: HTML document\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/main.css\n    Server-->>-Browser: Notes CSS file\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/main.js\n    Server-->>-Browser: Notes Javascript file\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/data.json\n    Server-->>-Browser: [{\"content\": \"Hello there }]",
+            "mermaid": "{\n  \"theme\": \"default\"\n}",
+            "autoSync": true,
+            "updateDiagram": false,
+            "panZoom": false
+        },
+        "time": 1712037107056,
+        "type": "auto",
+        "id": "e10fe005-0f2f-469f-b587-481aaae12147",
+        "name": "witty-airport"
+    },
+    {
+        "state": {
+            "code": "sequenceDiagram\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/notes\n    Server-->>-Browser: HTML document\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/main.css\n    Server-->>-Browser: Notes CSS file\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/main.js\n    Server-->>-Browser: Notes Javascript file\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/data.json\n    Server-->>-Browser: [{\"content\": \"HTML }]",
+            "mermaid": "{\n  \"theme\": \"default\"\n}",
+            "autoSync": true,
+            "updateDiagram": false,
+            "panZoom": false
+        },
+        "time": 1712036987071,
+        "type": "auto",
+        "id": "c5909d33-1911-456f-b99f-02052a941c00",
+        "name": "billions-accountant"
+    },
+    {
+        "state": {
+            "code": "sequenceDiagram\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/notes\n    Server-->>-Browser: HTML document\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/main.css\n    Server-->>-Browser: Notes CSS file\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/main.js\n    Server-->>-Browser: Notes Javascript file\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/data.json\n    Server-->>-Browser: [{\"content\":}]",
+            "mermaid": "{\n  \"theme\": \"default\"\n}",
+            "autoSync": true,
+            "updateDiagram": false,
+            "panZoom": false
+        },
+        "time": 1712036926309,
+        "type": "auto",
+        "id": "7871eedc-b5cb-461a-92dc-11149c9db4b2",
+        "name": "young-cricket"
+    },
+    {
+        "state": {
+            "code": "sequenceDiagram\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/notes\n    Server-->>-Browser: HTML document\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/main.css\n    Server-->>-Browser: Notes CSS file\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/main.js\n    Server-->>-Browser: Notes Javascript file",
+            "mermaid": "{\n  \"theme\": \"default\"\n}",
+            "autoSync": true,
+            "updateDiagram": false,
+            "panZoom": false
+        },
+        "time": 1712036866313,
+        "type": "auto",
+        "id": "870db84c-0e98-4d4a-88f2-8b160b267f6e",
+        "name": "rancid-uganda"
+    },
+    {
+        "state": {
+            "code": "sequenceDiagram\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/notes\n    Server-->>-Browser: HTML document\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/main.css\n    Server-->>-Browser: CSS",
+            "mermaid": "{\n  \"theme\": \"default\"\n}",
+            "autoSync": true,
+            "updateDiagram": false,
+            "panZoom": false
+        },
+        "time": 1712036806298,
+        "type": "auto",
+        "id": "47c81c49-b501-44bc-91e5-70bc913d9f73",
+        "name": "broad-boots"
+    },
+    {
+        "state": {
+            "code": "sequenceDiagram\n    Browser->>+Server: GET https://studies.cs.helsinki.fi/exampleapp/notes\n    Browser->>+Server: John, can you hear me?\n    Server-->>-Browser: Hi Alice, I can hear you!\n    Server-->>-Browser: I feel great!",
+            "mermaid": "{\n  \"theme\": \"default\"\n}",
+            "autoSync": true,
+            "updateDiagram": false,
+            "panZoom": false
+        },
+        "time": 1712036746314,
+        "type": "auto",
+        "id": "8207d9dc-f118-41af-a9f5-93354534d701",
+        "name": "steep-photographer"
+    }
+    
+]
